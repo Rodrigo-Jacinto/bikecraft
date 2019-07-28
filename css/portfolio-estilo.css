@@ -1,0 +1,28 @@
+.introducao-port {
+    background: url("../img/bg-portfolio.jpg") no-repeat center;
+    background-size: cover;
+}
+.citacao{
+    
+    width: 460px;
+    padding: 60px 0;
+    margin: 0 auto;
+}
+
+.citacao p {
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+    font-size: 18px;
+    font-style: italic;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+
+.citacao cite {
+
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    float: right;
+}
