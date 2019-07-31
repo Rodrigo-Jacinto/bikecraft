@@ -1,0 +1,44 @@
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	
+	
+}
+
+@media only screen and (max-width: 767px) {
+	
+	/* HEADER */
+	.header { 
+		position: relative;
+	}
+	.header img {
+		margin: 0 auto;
+	}
+	
+    .header-menu {
+		text-align: center;
+	}
+
+	.header-menu ul li {
+		margin: 0 5px 5px 0;
+	}
+
+	.header-menu li a {
+		display: block;
+		width: 140px;
+		float: left;
+		border: 3px solid black;
+	}
+
+	.header-menu li a:hover {
+		border-color: #fff;
+	}
+
+	/* INTRODUÇÃO */
+
+	.introducao {
+		margin-top: 0;
+		padding-top: 20px;
+		background: url("../img/fundo-mobile.jpg") no-repeat center;
+    	background-size: cover;
+	}
+
+}
